@@ -42,14 +42,6 @@ const CTA: React.FC = () => {
                     </motion.div>
                 </div>
             </div>
-            {/* <style jsx>{`
-        .bg-accent2 {
-          background-color: #B2D1E6;
-        }
-        .bg-accent1 {
-          background-color: #C9E8FF;
-        }
-      `}</style> */}
         </>
     );
 };

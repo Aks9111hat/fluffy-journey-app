@@ -1,1 +1,1 @@
-# fluffy-journey-app
+# fluffy-journey
